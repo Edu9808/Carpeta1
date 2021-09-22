@@ -1,0 +1,59 @@
+/*Se configura el tamaño de la seccion Informacion*/
+.SeccionInformacion{
+    width: 30%;
+    height: max-content;
+    float: left;
+}
+/*Se configura la ubicacion del texto dentro del div Seccion Informacion*/
+.Nombre{
+    text-align: center;
+}
+
+.InformacionContacto{
+    font-size: 0.35cm;
+    margin-left: 5%;
+}
+
+.Aptitudes{
+    font-size: 0.35cm;
+    margin-left: 5%;
+}
+
+.Idiomas{
+    font-size: 0.35cm;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.Imagen_Usuario{
+    width: 100px;
+    height: 100px;
+}
+.Contacto{
+    margin-left: 5%;
+}
+
+.ImagenEncabezado{
+
+    float: left;
+    margin-left: 2%;
+    margin-right: 4%;
+    width: 34%;
+}
+ 
+.Parrafo1{
+    float: left;
+    margin-left: 3%;
+    margin-right: 5%;
+    width: 30%;
+    font-size: 0.3cm;
+}
+.SeccionTecnica{
+    height: max-content;
+}
+
+.BarraProgreso
+{
+    margin-left: 50%;
+    width: 30%;
+    
+}
